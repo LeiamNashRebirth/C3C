@@ -2,7 +2,7 @@ C3C FBState Utility ver. 1.3
 <br> <br>
 [created by Leiam Nash](https://www.facebook.com/LeiamNashRebrth)
 <br> <br> <br>
-A Chrome and kiwi extension used to import/export fbstate.json file to be used with C3C or any other bots based on <br> fca-unofficial <br> facebook-chat-api
+A Chrome and kiwi extension used to import/export fbstate.json file to be used with C3C or any other bots based on <br> fca-unofficial facebook-chat-api
 <br> <br>
 
 Download here
