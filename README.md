@@ -12,11 +12,7 @@ Download here
 This C3C program will help you to import your personal <br>`facebook information` and you can use it to login the `bot` without your `email` <br> `phone number` and <br> `facebook password`
 <br> <br>
 
-> Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS<br> <br> 
-<br> <br>
-
-Leiam Nash and Izumi Kun is the same person also my original name is 
-`Leiam Nash` i change my Facebook name to `Izumi Kun` cause that name means <br> `Spring or Fountain` cause i started doing this on <br> `spring season`
+> Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
 
 <br> <br>
 - [ ] Leiam Nash
